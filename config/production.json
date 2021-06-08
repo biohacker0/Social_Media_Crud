@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Brad:brad123@cluster0.qaubu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jsonSecret": "mylittleSecret",
+    "githubClientId": "b6f915d073908e37ca26",
+    "githubClientSecret": "125174c41d73399c805223b6e2af9bc8befc1066"
+}
